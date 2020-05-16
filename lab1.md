@@ -1,3 +1,5 @@
+https://github.com/awsdocs/amazon-vpc-user-guide
+
 # Designing a Highly Available Network with Custom VPC
 
 ### VPC Lab – Part 01 of 02
